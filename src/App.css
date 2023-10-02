@@ -2,3 +2,39 @@
   margin: 0 auto;
   text-align: center;
 }
+h1 {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.each-country h2 {
+  margin-top: 30px;
+  font-size: 30px;
+}
+.each-country h3 {
+  font-size: 20px;
+}
+.name-of-country {
+  text-decoration: none;
+  color: black;
+  margin-right: 30px;
+}
+.flag {
+  margin: 0 auto;
+}
+.country-flag {
+  margin-bottom: 20px;
+ 
+  margin-top: 20px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+table{
+  width: 100%;
+border: 1px solid;
+display: flex;
+justify-content: center;
+  align-items: center;
+
+}
